@@ -37,7 +37,7 @@ A **sleek, interactive, and feature-packed** web app designed to **enhance your 
 ## 🚀 How to Use 
 1️⃣ **Add & Manage Tasks** – Organize your to-do list effectively. 📝
 
-2️⃣ 
+2️⃣ **Track Your Time** – Use the built-in timer to stay productive. ⏳ 
 3️⃣   **Check Coin Details** – Click on a coin for historical data and insights. 📈  
 
 4️⃣ **Dark Mode Toggle** – Switch between light & dark themes. 🌙
