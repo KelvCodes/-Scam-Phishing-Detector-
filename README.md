@@ -41,7 +41,7 @@ A **sleek, interactive, and feature-packed** web app designed to **enhance your 
 
 3️⃣  **Monitor Progress** – See real-time analytics & productivity stats. 📊  
 
-4️⃣ 
+4️⃣ **Dark Mode Toggle** – Switch between light & dark themes. 🌙  
 
 ---
 
