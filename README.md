@@ -1,7 +1,6 @@
 #  🚀 Productivity Dashboard – Boost Your Efficiency! ⏳📊  
 
-A **stylish and interactive** web app that provides **real-time cryptocurrency prices, market trends, and insights!**  
-Stay ahead in the crypto world with live updates, price charts, and historical data. 📉📈  
+A **sleek, interactive, and feature-packed** web app designed to **enhance your productivity** with real-time tracking, task management, and smooth UI animations. 🏆 Stay **organized and motivated** while working!
 
 ---
 
