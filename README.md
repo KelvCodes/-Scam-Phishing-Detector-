@@ -6,7 +6,8 @@ A **sleek, interactive, and feature-packed** web app designed to **enhance your 
 
 ## 🌟 Features  
 - ✅ **📝 Task Manager** – Add, complete, and track tasks effortlessly.  
-- ✅ **⏳ Time Tracker** – Stay on top of work with a built-in stopwatch.  - ✅ **📊 Progress Analytics** – Visualize your productivity in real-time. - ✅ **🎭 Smooth Animations** – A sleek, modern UI with beautiful transitions.  
+- ✅ **⏳ Time Tracker** – Stay on top of work with a built-in stopwatch.  - ✅ **📊 Progress Analytics** – Visualize your productivity in real-time. - ✅ **🎭 Smooth Animations** – A sleek, modern UI with beautiful 
+           transitions.  
 - ✅ **📉 Price Charts** – View historical trends of your favorite coins.  
 - ✅ **🌙 Dark Mode** – A stylish dark theme for better viewing.
 - ✅ **🔗 Social Footer** – Follow us on YouTube, LinkedIn, and Instagram!  
