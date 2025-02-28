@@ -6,7 +6,7 @@ A **sleek, interactive, and feature-packed** web app designed to **enhance your 
 
 ## 🌟 Features  
 - ✅ **📝 Task Manager** – Add, complete, and track tasks effortlessly.  
-- ✅  
+- ✅ **⏳ Time Tracker** – Stay on top of work with a built-in stopwatch.   
 - ✅  **🔍 Powerful Search** – Easily find any cryptocurrency. 
 - ✅ **🎭 Smooth Animations** – A sleek, modern UI with beautiful transitions.  
 - ✅ **📉 Price Charts** – View historical trends of your favorite coins.  
