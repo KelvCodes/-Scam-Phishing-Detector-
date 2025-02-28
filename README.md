@@ -11,7 +11,7 @@ A **sleek, interactive, and feature-packed** web app designed to **enhance your 
 - ✅ **🌅 Motivational Quotes** – Get inspired while you work!
 - ✅ **🎨 Stunning UI & Smooth Animations** – Enjoy a modern, stylish experience.
 - ✅ **🌙 Dark Mode** – Work in style, day or night.
-- v   
+- ✅ **⛅ Live Weather Widget** – Stay updated with real-time weather reports. 
 
   
   
