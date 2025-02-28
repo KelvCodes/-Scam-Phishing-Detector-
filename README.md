@@ -5,7 +5,7 @@ A **sleek, interactive, and feature-packed** web app designed to **enhance your 
 ---
 
 ## 🌟 Features  
-- ✅   
+- ✅ **📝 Task Manager** – Add, complete, and track tasks effortlessly.  
 - ✅ **📊 Coin Details Page** – View in-depth insights for each coin. 
 - ✅  **🔍 Powerful Search** – Easily find any cryptocurrency. 
 - ✅ **🎭 Smooth Animations** – A sleek, modern UI with beautiful transitions.  
