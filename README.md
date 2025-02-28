@@ -8,7 +8,8 @@ A **sleek, interactive, and feature-packed** web app designed to **enhance your 
 - ✅ **📝 Task Manager** – Add, complete, and track tasks effortlessly.  
 - ✅ **⏳ Time Tracker** – Stay on top of work with a built-in stopwatch.
 - ✅ **📊 Progress Analytics** – Visualize your productivity in real-time.
-- ✅ **🌅 Motivational Quotes** – Get inspired while you work!     
+- ✅ **🌅 Motivational Quotes** – Get inspired while you work!
+- ✅ **🎨 Stunning UI & Smooth Animations** – Enjoy a modern, stylish experience.   
 
   
   
