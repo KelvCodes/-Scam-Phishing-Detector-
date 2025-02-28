@@ -40,8 +40,7 @@ A **sleek, interactive, and feature-packed** web app designed to **enhance your 
 2️⃣ **Track Your Time** – Use the built-in timer to stay productive. ⏳ 
 3️⃣  **Monitor Progress** – See real-time analytics & productivity stats. 📊  
 
-4️⃣ **Dark Mode Toggle** – Switch between light & dark themes. 🌙
-
+4️⃣ 
 
 ---
 
