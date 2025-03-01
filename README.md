@@ -38,6 +38,7 @@ Stay protected with **advanced scam detection, real-time analysis, and smooth an
 1️⃣ **Enter a Website URL** – Type the link you want to check. 🔗
 
 2️⃣ **Scan for Threats** – Click the "Scan" button to analyze the site. 🔍
+
 3️⃣   **Check Coin Details** – Click on a coin for historical data and insights. 📈  
 
 4️⃣ **Dark Mode Toggle** – Switch between light & dark themes. 🌙
