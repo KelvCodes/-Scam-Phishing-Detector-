@@ -9,7 +9,7 @@ Stay protected with **advanced scam detection, real-time analysis, and smooth an
 - ✅ **🚨 Real-Time Scam Detection** – Instantly identify suspicious websites.  
 - ✅ **🔍 URL Scanner** – Check any link for potential threats. 
 - ✅ **🎭 Smooth Animations** – A sleek, modern UI with engaging transitions.  
-- ✅
+- ✅ **📊 Detailed Analysis** – Get insights into website trust scores.  
 - ✅ **📉 Price Charts** – View historical trends of your favorite coins.  
 - ✅ **🌙 Dark Mode** – A stylish dark theme for better viewing.
 - ✅ **🔗 Social Footer** – Follow us on YouTube, LinkedIn, and Instagram!  
