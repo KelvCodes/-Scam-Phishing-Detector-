@@ -1,4 +1,4 @@
-# 🚀 Crypto Tracker – Real-Time Market Insights! 💰📊  
+#   
 
 A **stylish and interactive** web app that provides **real-time cryptocurrency prices, market trends, and insights!**  
 Stay ahead in the crypto world with live updates, price charts, and historical data. 📉📈  
