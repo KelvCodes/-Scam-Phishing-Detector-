@@ -11,7 +11,7 @@ Stay protected with **advanced scam detection, real-time analysis, and smooth an
 - ✅ **🎭 Smooth Animations** – A sleek, modern UI with engaging transitions.  
 - ✅ **📊 Detailed Analysis** – Get insights into website trust scores.  
 - ✅  **🌙 Dark Mode** – A stylish dark theme for better visibility.  .  
-- ✅ **🌙 Dark Mode** – A stylish dark theme for better viewing.
+- ✅ 
 - ✅ **🔗 Social Footer** – Follow us on YouTube, LinkedIn, and Instagram!  
 
   
