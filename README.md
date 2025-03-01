@@ -1,7 +1,7 @@
 # 🚀 Scam & Phishing Detector – Stay Safe Online! 🔍🔐  
 
-A **stylish and interactive** web app that provides **real-time cryptocurrency prices, market trends, and insights!**  
-Stay ahead in the crypto world with live updates, price charts, and historical data. 📉📈  
+A **powerful and interactive** web app that helps detect **malicious websites, phishing scams, and unsafe links** in real-time.  
+Stay protected with **advanced scam detection, real-time analysis, and smooth animations** for the best user experience. 💻⚠️    
 
 ---
 
