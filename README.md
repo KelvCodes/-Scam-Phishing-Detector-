@@ -6,7 +6,7 @@ Stay protected with **advanced scam detection, real-time analysis, and smooth an
 ---
 
 ## 🌟 Features  
-- ✅ **🔥 Real-Time Data** – Get live prices and market updates.  .  
+- ✅   
 - ✅ **📊 Coin Details Page** – View in-depth insights for each coin. 
 - ✅  **🔍 Powerful Search** – Easily find any cryptocurrency. 
 - ✅ **🎭 Smooth Animations** – A sleek, modern UI with beautiful transitions.  
