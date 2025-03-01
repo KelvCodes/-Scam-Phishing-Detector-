@@ -41,8 +41,7 @@ Stay protected with **advanced scam detection, real-time analysis, and smooth an
 
 3️⃣   **Check Coin Details** – Click on a coin for historical data and insights. 📈  
 
-4️⃣ **Dark Mode Toggle** – Switch between light & dark themes. 🌙
-
+4️⃣ 
 
 ---
 
