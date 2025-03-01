@@ -49,7 +49,7 @@ Stay protected with **advanced scam detection, real-time analysis, and smooth an
 
 1. Clone this repository to your local machine:  
    ```bash  
-   git clone https://github.com/yourusername/scam-phishing-dectec
+   git clone https://github.com/yourusername/scam-phishing-dectector
    ```  
 
 2. Open the `index.html` file in your favorite web browser. 🌐  
