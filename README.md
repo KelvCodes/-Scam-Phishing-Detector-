@@ -8,7 +8,7 @@ Stay protected with **advanced scam detection, real-time analysis, and smooth an
 ## 🌟 Features  
 - ✅ **🚨 Real-Time Scam Detection** – Instantly identify suspicious websites.  
 - ✅ **🔍 URL Scanner** – Check any link for potential threats. 
-- ✅  **🔍 Powerful Search** – Easily find any cryptocurrency. 
+- ✅ **🎭 Smooth Animations** – A sleek, modern UI with engaging transitions.  
 - ✅ **🎭 Smooth Animations** – A sleek, modern UI with beautiful transitions.  
 - ✅ **📉 Price Charts** – View historical trends of your favorite coins.  
 - ✅ **🌙 Dark Mode** – A stylish dark theme for better viewing.
