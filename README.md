@@ -35,7 +35,7 @@ Stay protected with **advanced scam detection, real-time analysis, and smooth an
 ---
 
 ## 🚀 How to Use 
-1️⃣ **Search for a Coin** – Enter a cryptocurrency name or symbol. 🔍
+1️⃣
 
 2️⃣ **View Market Trends** – Get live updates on prices and market caps. 📊  
 3️⃣   **Check Coin Details** – Click on a coin for historical data and insights. 📈  
