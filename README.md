@@ -12,7 +12,7 @@ Stay protected with **advanced scam detection, real-time analysis, and smooth an
 - ✅ **📊 Detailed Analysis** – Get insights into website trust scores.  
 - ✅  **🌙 Dark Mode** – A stylish dark theme for better visibility.  .  
 - ✅ **🔗 Social Footer** – Follow us on YouTube, LinkedIn, and Instagram! 
-- ✅ **🔗 Social Footer** – Follow us on YouTube, LinkedIn, and Instagram!  
+ 
 
   
   
