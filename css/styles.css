@@ -1,0 +1,37 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f0f2f5;
+    text-align: center;
+}
+
+.hero {
+    padding: 100px 20px;
+    background: linear-gradient(to right, #3b5998, #8b9dc3);
+    color: white;
+}
+
+.start-btn {
+    background: #ff4500;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    font-size: 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.start-btn:hover {
+    background: #ff6347;
+    transform: scale(1.1);
+}
+
+/* Footer */
+footer {
+    margin-top: 50px;
+    background: #222;
+    color: white;
+    padding: 15px;
+}

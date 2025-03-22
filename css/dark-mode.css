@@ -1,0 +1,9 @@
+.dark-mode {
+    background: #222;
+    color: white;
+}
+
+.dark-mode button {
+    background: #333;
+    color: white;
+}
