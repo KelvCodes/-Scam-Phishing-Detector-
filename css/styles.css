@@ -137,5 +137,28 @@ footer a {
     font-size: 1.5rem;
     transition: transform 0.3s ease;
 }
+footer a:hover {
+    transform: scale(1.2);
+}
+
+/* Dark Mode */
+.dark-mode {
+    background: #1a1a2e;
+    color: #e0e0e0;
+}
+
+.dark-mode .hero {
+    background: linear-gradient(135deg, #16213e, #0f3460);
+}
+
+.dark-mode .start-btn, .dark-mode .scan-btn {
+    background: #e94560;
+}
+
+.dark-mode #url-input {
+    background: #333;
+    color: #fff;
+    border-color: #444;
+}
 
 
