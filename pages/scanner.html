@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scanner</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+    <div class="scanner-container fade-in">
+        <h1><i class="fas fa-search"></i> Scam & Phishing Scanner</h1>
+        <div class="input-group">
+            <input type="text" id="url-input" placeholder="Enter website URL (e.g., https://example.com)" required>
+            <button onclick="checkScam()" class="scan-btn"><i class="fas fa-play"></i> Scan Now</button>
+        </div>
+        <div id="loading" class="loader hidden"></div>
+        <p id="result" class="result-text"></p>
+        <a href="../index.html" class="back-btn"><i class="fas fa-arrow-left"></i> Back to Home</a>
+    </div>
 
+    <script src="../js/scanner.js"></script>
+</body>
+</html>
