@@ -48,4 +48,29 @@ body {
     align-items: center;
     gap: 10px;
 }
+.start-btn:hover, .scan-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.scanner-container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.scanner-container h1 {
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+}
+
+.input-group {
+    display: flex;
+    gap: 10px;
+    max-width: 600px;
+    width: 100%;
+}
 
