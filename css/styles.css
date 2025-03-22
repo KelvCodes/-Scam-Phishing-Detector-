@@ -73,4 +73,35 @@ body {
     max-width: 600px;
     width: 100%;
 }
+#url-input {
+    padding: 12px;
+    font-size: 1rem;
+    border: 2px solid #ddd;
+    border-radius: 25px;
+    flex: 1;
+    transition: border-color 0.3s ease;
+}
+
+#url-input:focus {
+    border-color: #6e8efb;
+    outline: none;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    transition: opacity 0.3s ease;
+}
+
+.loader {
+    border: 5px solid #f3f3f3;
+    border-top: 5px solid #6e8efb;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: spin 1s linear infinite;
+    margin-top: 20px;
+}
+
 
