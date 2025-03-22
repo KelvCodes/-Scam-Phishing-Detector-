@@ -1,10 +1,5 @@
 function scanWebsite() {
-  isplay.style.color = "yellow";
-        return;
-    }
-
-    // Dummy detection logic (will integrate API later)
-    let blacklistedSites = ["phishing.com", "scamwebsite.net"];
+  iss = ["phishing.com", "scamwebsite.net"];
     let isBlacklisted = blacklistedSites.some(site => url.includes(site));
 
     if (isBlacklisted) {
