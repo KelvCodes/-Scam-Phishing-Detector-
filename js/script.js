@@ -1,10 +1,5 @@
 function scanWebsite() {
-    let url = document.getElementById('urlInput').value;
-    let resultDisplay = document.getElementById('result');
-
-    if (!url) {
-        resultDisplay.innerHTML = "⚠️ Please enter a valid URL!";
-        resultDisplay.style.color = "yellow";
+  isplay.style.color = "yellow";
         return;
     }
 
