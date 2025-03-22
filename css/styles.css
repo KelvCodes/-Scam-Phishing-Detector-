@@ -103,5 +103,23 @@ body {
     animation: spin 1s linear infinite;
     margin-top: 20px;
 }
+.hidden {
+    display: none;
+}
+
+.back-btn {
+    margin-top: 20px;
+    color: #6e8efb;
+    text-decoration: none;
+    font-size: 1.1rem;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    transition: color 0.3s ease;
+}
+
+.back-btn:hover {
+    color: #a777e3;
+}
 
 
