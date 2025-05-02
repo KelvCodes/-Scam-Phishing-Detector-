@@ -1,9 +1,4 @@
-kground: #1a1a2e;
-    color: #e0e0e0;
-}
-
-.dark-mode .hero {
-    background: linear-gradient(135deg, #16213e, #0f3460);
+kground: linear-gradient(135deg, #16213e, #0f3460);
 }
 
 .dark-mode .start-btn, .dark-mode .scan-btn {
