@@ -1,9 +1,5 @@
 start-btn, .scan-btn {
-    background: #ff6f61;
-    color: white;
-    padding: 12px 25px;
-    border: none;
-    border-radius: 25px;
+   r-radius: 25px;
     font-size: 1.1rem;
     cursor: pointer;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
