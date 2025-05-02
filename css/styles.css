@@ -1,10 +1,5 @@
 font-w;
-    width: 40px;
-    height: 40px;
-    animation: spin 1s linear infinite;
-    margin-top: 20px;
-}
-.hidden {
+  
     display: none;
 }
 
