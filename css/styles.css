@@ -1,9 +1,3 @@
-ation-delay: 0.5s;
-}
-
-.pulse {
-    animation: pulse 2s infinite;
-}
 
 @keyframes fadeIn {
     to { opacity: 1; }
