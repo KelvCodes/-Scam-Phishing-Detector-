@@ -1,11 +1,4 @@
-;
-    transition: border-color 0.3s ease;
-}
 
-#url-input:focus {
-    border-color: #6e8efb;
-    outline: none;
-}
 
 #result {
     margin-top: 20px;
