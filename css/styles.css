@@ -1,7 +1,4 @@
- margin-bottom: 30px;
-}
-
-.start-btn, .scan-btn {
+start-btn, .scan-btn {
     background: #ff6f61;
     color: white;
     padding: 12px 25px;
