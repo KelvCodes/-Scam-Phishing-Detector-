@@ -1,10 +1,5 @@
  margin: 0 10px;
     font-size: 1.5rem;
-    transition: transform 0.3s ease;
-}
-footer a:hover {
-    transform: scale(1.2);
-}
 
 /* Dark Mode */
 .dark-mode {
