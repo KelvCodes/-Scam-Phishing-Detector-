@@ -1,7 +1,4 @@
-start-btn, .scan-btn {
-isplay: flex;
-    align-items: center;
-    gap: 10px;
+gap: 10px;
 }
 .start-btn:hover, .scan-btn:hover {
     transform: translateY(-3px);
