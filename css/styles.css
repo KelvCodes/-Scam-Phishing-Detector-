@@ -1,11 +1,5 @@
   padding: 20px;
-}
-
-.scont-size: 2.5rem;
-    margin-bottom: 30px;
-}
-
-.input-group {
+oup {
     display: flex;
     gap: 10px;
     max-width: 600px;
