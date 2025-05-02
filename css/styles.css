@@ -1,10 +1,4 @@
-.scanner-container {
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 20px;
+  padding: 20px;
 }
 
 .scanner-container h1 {
