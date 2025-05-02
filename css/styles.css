@@ -1,11 +1,4 @@
-font-weight: 600;
-    transition: opacity 0.3s ease;
-}
-
-.loader {
-    border: 5px solid #f3f3f3;
-    border-top: 5px solid #6e8efb;
-    border-radius: 50%;
+font-w;
     width: 40px;
     height: 40px;
     animation: spin 1s linear infinite;
