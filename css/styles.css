@@ -1,11 +1,6 @@
 kground: linear-gradient(135deg, #16213e, #0f3460);
 }
-
-.dark-mode .start-btn, .dark-mode .scan-btn {
-    background: #e94560;
-}
-
-.dark-mode #url-input {
+mode #url-input {
     background: #333;
     color: #fff;
     border-color: #444;
