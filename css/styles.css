@@ -1,9 +1,5 @@
 start-btn, .scan-btn {
-   r-radius: 25px;
-    font-size: 1.1rem;
-    cursor: pointer;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    display: flex;
+isplay: flex;
     align-items: center;
     gap: 10px;
 }
