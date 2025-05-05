@@ -1,4 +1,4 @@
-er a URL!';
+
         resultText.style.color = "#ffcc00";
         return;
     }
