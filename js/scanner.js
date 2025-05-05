@@ -1,4 +1,1 @@
 
-
-    loading.classList.add("hidden");
-}
