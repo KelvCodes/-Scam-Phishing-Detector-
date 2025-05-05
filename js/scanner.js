@@ -1,5 +1,4 @@
- = "";
-    loading.classList.remove("hidden");
+ing.classList.remove("hidden");
 
     // Simulate API call with delay (replace with real API later)
     await new Promise(resolve => setTimeout(resolve, 1500));
