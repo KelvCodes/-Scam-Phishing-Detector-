@@ -1,4 +1,4 @@
-olve =>eout(resolve, 1500));
+olve, 1500));
 
     // Enhanced detection logic
     const suspiciousKeywords = ["scam", "phish", "fake", "login", "password"];
