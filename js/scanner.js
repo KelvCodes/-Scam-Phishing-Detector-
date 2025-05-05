@@ -1,6 +1,4 @@
- =
-        return;
-    }
+
 
     // Show loading spinner
     resultText.innerHTML = "";
