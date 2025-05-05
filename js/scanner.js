@@ -1,5 +1,4 @@
-erultText.style.color = "#ff4444";
-    } else {
+
         resultText.innerHTML = '<i class="fas fa-check-circle"></i> Safe: No threats detected.';
         resultText.style.color = "#00cc00";
     }
