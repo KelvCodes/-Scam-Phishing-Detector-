@@ -1,6 +1,5 @@
 
-    const resultText = document.getElementById("result");
-    const loading = document.getElementById("loading");
+ loading = document.getElementById("loading");
 
     if (!urlInput) {
         resultText.innerHTML = '<i class="fas fa-exclamation-triangle"></i> Please enter a URL!';
