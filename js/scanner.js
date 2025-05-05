@@ -1,4 +1,4 @@
-></i> Please enter a URL!';
+er a URL!';
         resultText.style.color = "#ffcc00";
         return;
     }
