@@ -1,8 +1,6 @@
 
 
-    // Enhanced detection logic
-    const suspiciousKeywords = ["scam", "phish", "fake", "login", "password"];
-    const isSuspicious = suspiciousKeywords.some(keyword => urlInput.toLowerCase().includes(keyword));
+ nst isSuspicious = suspiciousKeywords.some(keyword => urlInput.toLowerCase().includes(keyword));
     const urlPattern = /^(https?:\/\/)?([\w-]+\.)+[\w-]+(\/.*)?$/;
 
     if (!urlPattern.test(urlInput)) {
