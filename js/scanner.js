@@ -1,4 +1,4 @@
-tyle.color = "#ffcc00";
+ = "#ffcc00";
         return;
     }
 
