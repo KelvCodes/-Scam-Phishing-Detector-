@@ -1,5 +1,4 @@
-
-        resultText.style.color = "#ffcc00";
+tyle.color = "#ffcc00";
         return;
     }
 
