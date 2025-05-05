@@ -1,4 +1,4 @@
-value.trim();
+
     const resultText = document.getElementById("result");
     const loading = document.getElementById("loading");
 
