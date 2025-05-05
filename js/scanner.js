@@ -1,6 +1,4 @@
-
-    // Simulate API call with delay (replace with real API later)
-    await new Promise(resolve => setTimeout(resolve, 1500));
+Promise(resolve => setTimeout(resolve, 1500));
 
     // Enhanced detection logic
     const suspiciousKeywords = ["scam", "phish", "fake", "login", "password"];
