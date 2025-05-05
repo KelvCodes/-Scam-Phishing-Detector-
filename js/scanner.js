@@ -1,4 +1,4 @@
-n-triangle"></i> Please enter a URL!';
+></i> Please enter a URL!';
         resultText.style.color = "#ffcc00";
         return;
     }
