@@ -1,4 +1,4 @@
- = document.getElementById("loading");
+getElementById("loading");
 
     if (!urlInput) {
         resultText.innerHTML = '<i class="fas fa-exclamation-triangle"></i> Please enter a URL!';
