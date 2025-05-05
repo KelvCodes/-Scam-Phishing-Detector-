@@ -1,4 +1,4 @@
-= document.getElementById("url-input").value.trim();
+tElementById("url-input").value.trim();
     const resultText = document.getElementById("result");
     const loading = document.getElementById("loading");
 
