@@ -1,4 +1,4 @@
-[\w-]+\.)+[\w-]+(\/.*)?$/;
+\/.*)?$/;
 
     if (!urlPattern.test(urlInput)) {
         resultText.innerHTML = '<i class="fas fa-times-circle"></i> Invalid URL format!';
