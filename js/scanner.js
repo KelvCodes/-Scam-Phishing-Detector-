@@ -1,7 +1,6 @@
 
 
- nst isSuspicious = suspiciousKeywords.some(keyword => urlInput.toLowerCase().includes(keyword));
-    const urlPattern = /^(https?:\/\/)?([\w-]+\.)+[\w-]+(\/.*)?$/;
+ nnst urlPattern = /^(https?:\/\/)?([\w-]+\.)+[\w-]+(\/.*)?$/;
 
     if (!urlPattern.test(urlInput)) {
         resultText.innerHTML = '<i class="fas fa-times-circle"></i> Invalid URL format!';
