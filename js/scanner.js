@@ -1,5 +1,4 @@
-
-        resultText.innerHTML = '<i class="fas fa-exclamation-triangle"></i> Please enter a URL!';
+innerHTML = '<i class="fas fa-exclamation-triangle"></i> Please enter a URL!';
         resultText.style.color = "#ffcc00";
         return;
     }
