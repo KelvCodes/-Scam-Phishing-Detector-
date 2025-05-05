@@ -1,7 +1,5 @@
 
-
-    // Show loading spinner
-    resultText.innerHTML = "";
+xt.innerHTML = "";
     loading.classList.remove("hidden");
 
     // Simulate API call with delay (replace with real API later)
