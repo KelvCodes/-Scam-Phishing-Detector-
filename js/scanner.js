@@ -1,5 +1,4 @@
-erHTML = '<i class="fas fa-exclamation-circle"></i> Warning: This site appears suspicious!';
-        resultText.style.color = "#ff4444";
+erultText.style.color = "#ff4444";
     } else {
         resultText.innerHTML = '<i class="fas fa-check-circle"></i> Safe: No threats detected.';
         resultText.style.color = "#00cc00";
